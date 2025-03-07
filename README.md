@@ -20,8 +20,6 @@ Installation & Setup
 
 Clone the repository:
 
-git clone https://github.com/your-username/mrrajak1296-proxify.git
-
 Open the project in your preferred IDE (e.g., IntelliJ IDEA, Eclipse, VS Code).
 
 Ensure you have Java installed:
