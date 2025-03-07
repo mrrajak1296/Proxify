@@ -64,14 +64,7 @@ public class Login {
 		Thread.sleep(3000);
 		driver.findElement(By.xpath("//div[normalize-space()='Create']")).click();
 		
-//		driver.findElement(By.xpath("//a[normalize-space()='Topup']")).click();
-//		
-//		driver.findElement(By.xpath("//input[@id='amount']")).sendKeys("2");
-//		Thread.sleep(3000);
-//		 driver.findElement(By.xpath("//div[contains(text(),'Continue to Payment')]")).click();
-//		String win1 =new String();
-//		driver.switchTo().window(win);
-		
+//	
 		
 
 
