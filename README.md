@@ -50,20 +50,4 @@ TEST_PLAN (2).docx: Documents the overall test plan.
 
 The Summary Report (3).docx: Provides an overview of test results.
 
-## Contribution Guidelines
 
-Fork the repository.
-
-Create a new branch:
-
-git checkout -b feature-branch
-
-Commit your changes:
-
-git commit -m "Add new feature"
-
-Push to your branch:
-
-git push origin feature-branch
-
-Open a Pull Request for review
