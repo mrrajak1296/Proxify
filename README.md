@@ -18,8 +18,6 @@ mrrajak1296-proxify/
 ~~~
 Installation & Setup
 
-Clone the repository:
-
 Open the project in your preferred IDE (e.g., IntelliJ IDEA, Eclipse, VS Code).
 
 Ensure you have Java installed:
@@ -38,13 +36,13 @@ java Logout
 
 ## Documentation for Manual Testing
 
-Bug Report.xlsx: Contains a list of identified issues.
-
-Test Cases (1).xlsx: Details various test cases executed.
+TEST_PLAN (2).docx: Documents the overall test plan.
 
 Test Scenarios.xlsx: Covers different test scenarios.
 
-TEST_PLAN (2).docx: Documents the overall test plan.
+Test Cases (1).xlsx: Details various test cases executed.
+
+Bug Report.xlsx: Contains a list of identified issues.
 
 The Summary Report (3).docx: Provides an overview of test results.
 
