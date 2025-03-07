@@ -46,4 +46,13 @@ Bug Report.xlsx: Contains a list of identified issues.
 
 The Summary Report (3).docx: Provides an overview of test results.
 
+## Bug Reports
+Here is a list of open bugs in the project:
 
+TB_001: Issue with Forgot button visibility
+
+TB_002: Text color contrast issue on the homepage
+
+TB_003: Logo refresh issue
+
+TB_004: Problems with plan selection
